@@ -1,62 +1,147 @@
 name: Sync AniList to SIMKL
 
 on:
+  # Safety-net hourly cron on an odd minute to restart the chain if it ever breaks.
+  # The actual 15-minute cadence is handled inside the job's sync loop.
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '17 * * * *'
   workflow_dispatch:
+
+concurrency:
+  group: anilist-simkl-sync
+  cancel-in-progress: false
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    timeout-minutes: 60
+    env:
+      PYTHONUNBUFFERED: "1"
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           cache: 'pip'
 
-      - run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-      - name: Unlock Simkl Auth
-        env:
-          ENC_KEY: ${{ secrets.SIMKL_CLIENT_ID }}
-          INITIAL_AUTH: ${{ secrets.SIMKL_AUTH_JSON }}
-        run: |
-          if [ -f simkl_auth.enc ]; then
-            openssl enc -d -aes-256-cbc -pbkdf2 -pass env:ENC_KEY -in simkl_auth.enc -out simkl_auth.json
-          else
-            echo "$INITIAL_AUTH" > simkl_auth.json
-          fi
-
-      - name: Run Sync Script and Lock Auth
+      - name: Sync loop (one pass every 15 minutes for ~50 minutes, then hands over)
+        shell: bash
         env:
           ANILIST_USERNAME: ${{ secrets.ANILIST_USERNAME }}
           SIMKL_CLIENT_ID: ${{ secrets.SIMKL_CLIENT_ID }}
           ENC_KEY: ${{ secrets.SIMKL_CLIENT_ID }}
+          INITIAL_AUTH: ${{ secrets.SIMKL_AUTH_JSON }}
         run: |
-          BEFORE_HASH=$(sha256sum simkl_auth.json 2>/dev/null || echo "")
-          python sync.py
-          AFTER_HASH=$(sha256sum simkl_auth.json 2>/dev/null || echo "")
-          if [ "$BEFORE_HASH" != "$AFTER_HASH" ] || [ ! -f simkl_auth.enc ]; then
-            openssl enc -aes-256-cbc -pbkdf2 -salt -pass env:ENC_KEY -in simkl_auth.json -out simkl_auth.enc
-          fi
-          rm -f simkl_auth.json *.tmp
+          set -u
+          trap 'rm -f simkl_auth.json *.tmp' EXIT
 
-      - name: Commit Updated State and Wipe Old Commit History
-        run: |
-          rm -f simkl_auth.json *.tmp
-          git add -A
-          if ! git diff --staged --quiet; then
-            git config --global user.name "github-actions[bot]"
-            git config --global user.email "github-actions[bot]@users.noreply.github.com"
-            git checkout --orphan temp_branch
-            git rm -rf --cached .
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          MAX_DURATION="${MAX_DURATION:-3000}"   # Run loop for ~50 mins (3000s), then hand over
+          SYNC_INTERVAL="${SYNC_INTERVAL:-900}"  # 15 minutes (900s) between AniList/Simkl checks
+          SLEEP_OUTAGE="${SLEEP_OUTAGE:-120}"    # Back off 2 mins if API/network fails
+
+          # Dynamically detect this workflow file name
+          WORKFLOW_FILE="${GITHUB_WORKFLOW_REF#*/.github/workflows/}"
+          WORKFLOW_FILE="${WORKFLOW_FILE%%@*}"
+          START_TIME=$(date +%s)
+          QUEUED=false
+
+          queue_successor() {
+            if gh workflow run "$WORKFLOW_FILE" --ref "$GITHUB_REF_NAME"; then
+              QUEUED=true
+            else
+              echo "::warning::Could not queue the next run; the hourly cron will restart it."
+            fi
+          }
+
+          stage_files() {
             rm -f simkl_auth.json *.tmp
-            git add -A
-            git commit -m "update state and encrypted auth"
-            git push -f origin temp_branch:main
-          fi
+            for f in sync_state_v2.json simkl_auth.enc simkl_rules_report.txt skipped_anime.txt; do
+              if [ -e "$f" ]; then
+                git add -A -- "$f"
+              fi
+            done
+          }
+
+          push_changes() {
+            stage_files
+            if git diff --staged --quiet; then
+              echo "No Simkl state changes to commit."
+              return 0
+            fi
+            git commit -q -m "update state and encrypted auth"
+            for attempt in 1 2 3; do
+              git push -q origin HEAD:main && echo "Pushed updated Simkl sync state." && return 0
+              echo "::warning::Push failed (attempt $attempt), rebasing onto origin/main"
+              git fetch -q origin main || true
+              git reset -q --mixed origin/main || true
+              stage_files
+              git diff --staged --quiet && return 0
+              git commit -q -m "update state and encrypted auth"
+            done
+            return 1
+          }
+
+          while true; do
+            PASS_START=$(date +%s)
+
+            # Pull any latest commits (e.g. from Telegram Dub Notifier) before running
+            git fetch -q origin main && git reset -q --mixed origin/main || true
+
+            # 1. Unlock Simkl Auth
+            if [ -f simkl_auth.enc ]; then
+              openssl enc -d -aes-256-cbc -pbkdf2 -pass env:ENC_KEY -in simkl_auth.enc -out simkl_auth.json
+            else
+              echo "$INITIAL_AUTH" > simkl_auth.json
+            fi
+
+            # 2. Run sync.py and re-lock auth if changed
+            BEFORE_HASH=$(sha256sum simkl_auth.json 2>/dev/null || echo "")
+            rc=0
+            timeout 600 python sync.py || rc=$?
+            AFTER_HASH=$(sha256sum simkl_auth.json 2>/dev/null || echo "")
+
+            if [ -f simkl_auth.json ] && { [ "$BEFORE_HASH" != "$AFTER_HASH" ] || [ ! -f simkl_auth.enc ]; }; then
+              openssl enc -aes-256-cbc -pbkdf2 -salt -pass env:ENC_KEY -in simkl_auth.json -out simkl_auth.enc
+            fi
+            rm -f simkl_auth.json *.tmp
+
+            # 3. Commit and push changes safely
+            push_changes || echo "::warning::Could not push; will retry next cycle"
+
+            if [ "$rc" -eq 0 ]; then
+              PAUSE=$(( SYNC_INTERVAL - ( $(date +%s) - PASS_START ) ))
+              if [ "$PAUSE" -lt 5 ]; then PAUSE=5; fi
+              echo "Pass finished in $(( $(date +%s) - PASS_START ))s. Next pass in ${PAUSE}s."
+            else
+              echo "::warning::sync.py exited with code $rc - backing off ${SLEEP_OUTAGE}s"
+              PAUSE=$SLEEP_OUTAGE
+            fi
+
+            # Immediately queue the next run after the first pass so it waits in Pending
+            if [ "$QUEUED" = false ]; then queue_successor; fi
+
+            ELAPSED=$(( $(date +%s) - START_TIME ))
+            if [ $(( ELAPSED + PAUSE )) -ge "$MAX_DURATION" ]; then
+              echo "Loop time reached (${ELAPSED}s); handing over to the queued Pending run."
+              break
+            fi
+            sleep "$PAUSE"
+          done
