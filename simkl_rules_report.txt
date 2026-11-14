@@ -1,0 +1,67 @@
+======================================================================
+               SIMKL RULES & STATUS DIFFERENCES REPORT                
+======================================================================
+Total AniList Anime Checked: 376
+1. Status Overridden by Simkl Rules : 2
+2. Episode Count Differences        : 3
+3. Merged Specials / Missing IDs    : 9
+======================================================================
+
+----------------------------------------------------------------------
+1. STATUS OVERRIDDEN BY SIMKL RULES (Where They Are on Simkl Now)
+----------------------------------------------------------------------
+• Demon Slayer: Kimetsu no Yaiba Infinity Castle (AniList ID: 178788)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Watching (1 ep)
+  - Simkl Rule    : Simkl lists this entry as still airing or groups it with an upcoming sequel/part (e.g., multi-part movie), so Simkl holds it in 'Watching' until all parts finish airing.
+• HAIKYU!! The Dumpster Battle (AniList ID: 153658)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Watching (1 ep)
+  - Simkl Rule    : Simkl lists this entry as still airing or groups it with an upcoming sequel/part (e.g., multi-part movie), so Simkl holds it in 'Watching' until all parts finish airing.
+
+----------------------------------------------------------------------
+2. EPISODE COUNT DIFFERENCES (Split-Cour Merges & Plan-to-Watch Rules)
+----------------------------------------------------------------------
+• Record of Ragnarok II (AniList ID: 138056)
+  - AniList State : Completed (10 ep)
+  - Simkl Now     : Completed (15 ep)
+  - Simkl Rule    : Simkl merges split-cour parts/specials into a single entry with a different total episode count.
+• Mushoku Tensei: Jobless Reincarnation Season 2 (AniList ID: 146065)
+  - AniList State : Completed (13 ep)
+  - Simkl Now     : Completed (12 ep)
+  - Simkl Rule    : Simkl merges split-cour parts/specials into a single entry with a different total episode count.
+• Attack on Titan Final Season THE FINAL CHAPTERS Special 1 (AniList ID: 146984)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Completed (2 ep)
+  - Simkl Rule    : Simkl merges split-cour parts/specials into a single entry with a different total episode count.
+
+----------------------------------------------------------------------
+3. MERGED SPECIALS / STANDALONE ID NOT IN SIMKL DB
+----------------------------------------------------------------------
+• Record of Ragnarok II Part 2 (AniList ID: 165356)
+  - AniList State : Completed (5 ep)
+  - Simkl Now     : Not a standalone entry (Merged into parent series/season or missing from Simkl DB)
+• Attack on Titan Final Season THE FINAL CHAPTERS Special 2 (AniList ID: 162314)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Not a standalone entry (Merged into parent series/season or missing from Simkl DB)
+• Boruto: Naruto the Movie - The Day Naruto Became Hokage (AniList ID: 21579)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Not a standalone entry (Merged into parent series/season or missing from Simkl DB)
+• ONE PIECE FAN LETTER (AniList ID: 182469)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Not a standalone entry (Merged into parent series/season or missing from Simkl DB)
+• Mob Psycho 100 10th Anniversary Special Movie (AniList ID: 214031)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Not a standalone entry (Merged into parent series/season or missing from Simkl DB)
+• Miss Kobayashi's Dragon Maid: Valentines and Hot Springs! (Please Don't Get Your Hopes Up) (AniList ID: 98580)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Not a standalone entry (Merged into parent series/season or missing from Simkl DB)
+• Love, Chunibyo & Other Delusions: Glimmering...Explosive Festival (Slapstick Noel) (AniList ID: 16934)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Not a standalone entry (Merged into parent series/season or missing from Simkl DB)
+• Love, Chunibyo & Other Delusions - Heart Throb -: The Rikka Wars/ Apocalypse of the Wicked Lord Shingan Reborn (AniList ID: 20889)
+  - AniList State : Completed (1 ep)
+  - Simkl Now     : Not a standalone entry (Merged into parent series/season or missing from Simkl DB)
+• Demon Slayer: Kimetsu no Yaiba Infinity Castle Part 2 (AniList ID: 195200)
+  - AniList State : Plan to Watch (0 ep)
+  - Simkl Now     : Not a standalone entry (Merged into parent series/season or missing from Simkl DB)

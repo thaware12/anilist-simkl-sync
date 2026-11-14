@@ -1,0 +1,3386 @@
+{
+    "127399": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Record of Ragnarok",
+        "mal_id": "44942",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "138056": {
+        "progress": 10,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Record of Ragnarok II",
+        "mal_id": "49618",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "165356": {
+        "progress": 5,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Record of Ragnarok II Part 2",
+        "mal_id": "55454",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "187921": {
+        "progress": 15,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Record of Ragnarok III",
+        "mal_id": "61200",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "181447": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "May I Ask for One Final Thing?",
+        "mal_id": "59846",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "185407": {
+        "progress": 6,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Takopi's Original Sin",
+        "mal_id": "60489",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "177709": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "SAKAMOTO DAYS",
+        "mal_id": "58939",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "184237": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "SAKAMOTO DAYS Part 2",
+        "mal_id": "60285",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "169969": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Hero Without a Class: Who Even Needs Skills?!",
+        "mal_id": "56854",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "98460": {
+        "progress": 10,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Devilman Crybaby",
+        "mal_id": "35120",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "170732": {
+        "progress": 15,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Is It Wrong To Try To Pick Up Girls in a Dungeon? V",
+        "mal_id": "57066",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "112625": {
+        "progress": 6,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Disastrous Life of Saiki K.: Reawakened",
+        "mal_id": "40542",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "155418": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Great Cleric",
+        "mal_id": "53263",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "147642": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Unwanted Undead Adventurer",
+        "mal_id": "51648",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "137909": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Ningen Fushin: Adventurers Who Don\u2019t Believe in Humanity Will Save the World",
+        "mal_id": "49612",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "187264": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Jack-of-All-Trades, Party of None",
+        "mal_id": "61128",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "147105": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Witch Hat Atelier",
+        "mal_id": "51553",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "139587": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Reincarnated as a Sword",
+        "mal_id": "49891",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "187663": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "A Gatherer's Adventure in Isekai",
+        "mal_id": "61174",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "185801": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Let This Grieving Soul Retire Cour 2",
+        "mal_id": "60619",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "206914": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+        "mal_id": "63375",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "166104": {
+        "progress": 4,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "TONIKAWA: Over The Moon For You ~High School Days~",
+        "mal_id": "55651",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "99088": {
+        "progress": 8,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "PLUTO",
+        "mal_id": "35737",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "183133": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Unaware Atelier Meister",
+        "mal_id": "60140",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21087": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "One-Punch Man",
+        "mal_id": "30276",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "97668": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "One-Punch Man Season 2",
+        "mal_id": "34134",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "153800": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "One-Punch Man Season 3",
+        "mal_id": "52807",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "101280": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "That Time I Got Reincarnated as a Slime",
+        "mal_id": "37430",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "108511": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "That Time I Got Reincarnated as a Slime Season 2",
+        "mal_id": "39551",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "116742": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "That Time I Got Reincarnated as a Slime Season 2 Part 2",
+        "mal_id": "41487",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "156822": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "That Time I Got Reincarnated as a Slime Season 3",
+        "mal_id": "53580",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "116741": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Slime Diaries",
+        "mal_id": "41488",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "177474": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "TOUGEN ANKI",
+        "mal_id": "58811",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "156415": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+        "mal_id": "53516",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "178090": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+        "mal_id": "59095",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "153288": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Kaiju No. 8",
+        "mal_id": "52588",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "178754": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Kaiju No. 8 Season 2",
+        "mal_id": "59177",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "171018": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "DAN DA DAN",
+        "mal_id": "57334",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "185660": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "DAN DA DAN Season 2",
+        "mal_id": "60543",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "155730": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Tiny Senpai",
+        "mal_id": "53379",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "105333": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dr. STONE",
+        "mal_id": "38691",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "113936": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dr. STONE: STONE WARS",
+        "mal_id": "40852",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "131518": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dr. STONE New World",
+        "mal_id": "48549",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "162670": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dr. STONE New World Part 2",
+        "mal_id": "55644",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "172019": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dr. STONE SCIENCE FUTURE",
+        "mal_id": "57592",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "189117": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dr. STONE SCIENCE FUTURE Cour 2",
+        "mal_id": "61322",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "163270": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "WIND BREAKER",
+        "mal_id": "54900",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "178680": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "WIND BREAKER Season 2",
+        "mal_id": "59160",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "105310": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Fire Force",
+        "mal_id": "38671",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "103572": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Quintessential Quintuplets",
+        "mal_id": "38101",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "114236": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Fire Force Season 2",
+        "mal_id": "40956",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "149118": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Fire Force Season 3",
+        "mal_id": "51818",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "179062": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Fire Force Season 3 Part 2",
+        "mal_id": "59229",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "151807": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Solo Leveling",
+        "mal_id": "52299",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "176496": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Solo Leveling Season 2 -Arise from the Shadow-",
+        "mal_id": "58567",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "148109": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Legendary Hero is Dead!",
+        "mal_id": "51706",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "111314": {
+        "progress": 4,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Uzumaki",
+        "mal_id": "40333",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "115113": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Uzaki-chan Wants to Hang Out!",
+        "mal_id": "41226",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "124395": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Uzaki-chan Wants to Hang Out! Season 2",
+        "mal_id": "42962",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "139518": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "TSUKIMICHI -Moonlit Fantasy- Season 2",
+        "mal_id": "49889",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "125206": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "TSUKIMICHI -Moonlit Fantasy-",
+        "mal_id": "43523",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "100112": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Wise Man\u2019s Grandchild",
+        "mal_id": "36407",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "114085": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Kemono Jihen",
+        "mal_id": "40908",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "137822": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "BLUE LOCK",
+        "mal_id": "49596",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "163146": {
+        "progress": 14,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "BLUE LOCK Season 2",
+        "mal_id": "54865",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "171637": {
+        "progress": 23,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Rurouni Kenshin -Kyoto Disturbance-",
+        "mal_id": "57554",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "142877": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Rurouni Kenshin (2023)",
+        "mal_id": "50613",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "156023": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+        "mal_id": "53434",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21355": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "mal_id": "31240",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "108632": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Re:ZERO -Starting Life in Another World- Season 2",
+        "mal_id": "39587",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "100240": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Tokyo Ghoul:re",
+        "mal_id": "36511",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "119661": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Re:ZERO -Starting Life in Another World- Season 2 Part 2",
+        "mal_id": "42203",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "102351": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Tokyo Ghoul:re 2",
+        "mal_id": "37799",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "163134": {
+        "progress": 16,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Re:ZERO -Starting Life in Another World- Season 3",
+        "mal_id": "54857",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "1575": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Code Geass: Lelouch of the Rebellion",
+        "mal_id": "1575",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "2904": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Code Geass: Lelouch of the Rebellion R2",
+        "mal_id": "2904",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "269": {
+        "progress": 366,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Bleach",
+        "mal_id": "269",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "116674": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "BLEACH: Thousand-Year Blood War",
+        "mal_id": "41467",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "159322": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "BLEACH: Thousand-Year Blood War - The Separation",
+        "mal_id": "53998",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "169755": {
+        "progress": 14,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "BLEACH: Thousand-Year Blood War - The Conflict",
+        "mal_id": "56784",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "151801": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "MASHLE: MAGIC AND MUSCLES",
+        "mal_id": "52211",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "166610": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "MASHLE: MAGIC AND MUSCLES Season 2",
+        "mal_id": "55813",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "154116": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Undead Unluck",
+        "mal_id": "52741",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "97940": {
+        "progress": 170,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Black Clover",
+        "mal_id": "34572",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20605": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Tokyo Ghoul",
+        "mal_id": "22319",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20850": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Tokyo Ghoul \u221aA",
+        "mal_id": "27899",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "120120": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Tokyo Revengers",
+        "mal_id": "42249",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "142853": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Tokyo Revengers Season 2",
+        "mal_id": "50608",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "163329": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Tokyo Revengers Season 2 Part 2",
+        "mal_id": "54918",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "127720": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Mushoku Tensei: Jobless Reincarnation Cour 2",
+        "mal_id": "45576",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "146065": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 2",
+        "mal_id": "51179",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "156039": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Berserk of Gluttony",
+        "mal_id": "53439",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "113415": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "JUJUTSU KAISEN",
+        "mal_id": "40748",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "145064": {
+        "progress": 23,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "JUJUTSU KAISEN Season 2",
+        "mal_id": "51009",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "172463": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+        "mal_id": "57658",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "140960": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "SPY x FAMILY",
+        "mal_id": "50265",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "142838": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "SPY x FAMILY Cour 2",
+        "mal_id": "50602",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "158927": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "SPY x FAMILY Season 2",
+        "mal_id": "53887",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "177937": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "SPY x FAMILY Season 3",
+        "mal_id": "59027",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "182255": {
+        "progress": 10,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Frieren: Beyond Journey\u2019s End Season 2",
+        "mal_id": "59978",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "154587": {
+        "progress": 28,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Frieren: Beyond Journey\u2019s End",
+        "mal_id": "52991",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "101922": {
+        "progress": 26,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "mal_id": "38000",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "142329": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+        "mal_id": "47778",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "145139": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "mal_id": "51019",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "129874": {
+        "progress": 7,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+        "mal_id": "49926",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "166240": {
+        "progress": 8,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+        "mal_id": "55701",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "1535": {
+        "progress": 37,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Death Note",
+        "mal_id": "1535",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "1735": {
+        "progress": 500,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Naruto: Shippuden",
+        "mal_id": "1735",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "101348": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Vinland Saga",
+        "mal_id": "37521",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20": {
+        "progress": 220,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Naruto",
+        "mal_id": "20",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21507": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Mob Psycho 100",
+        "mal_id": "32182",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "127230": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Chainsaw Man",
+        "mal_id": "44511",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20464": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "HAIKYU!!",
+        "mal_id": "20583",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20665": {
+        "progress": 22,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Your lie in April",
+        "mal_id": "23273",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "124080": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Horimiya",
+        "mal_id": "42897",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "104578": {
+        "progress": 10,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Attack on Titan Season 3 Part 2",
+        "mal_id": "38524",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21459": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Hero Academia",
+        "mal_id": "31964",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21234": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "ERASED",
+        "mal_id": "31043",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "110277": {
+        "progress": 16,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Attack on Titan Final Season",
+        "mal_id": "40028",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "19": {
+        "progress": 74,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Monster",
+        "mal_id": "19",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "16498": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Attack on Titan",
+        "mal_id": "16498",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20958": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Attack on Titan Season 2",
+        "mal_id": "25777",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "99147": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Attack on Titan Season 3",
+        "mal_id": "35760",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "131681": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Attack on Titan Final Season Part 2",
+        "mal_id": "48583",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "11061": {
+        "progress": 148,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Hunter x Hunter (2011)",
+        "mal_id": "11061",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "136430": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Vinland Saga Season 2",
+        "mal_id": "49387",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "101338": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Mob Psycho 100 II",
+        "mal_id": "37510",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "140439": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Mob Psycho 100 III",
+        "mal_id": "50172",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20992": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "HAIKYU!! 2nd Season",
+        "mal_id": "28891",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21698": {
+        "progress": 10,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "HAIKYU!! 3rd Season",
+        "mal_id": "32935",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "106625": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "HAIKYU!! TO THE TOP",
+        "mal_id": "38883",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "113538": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "HAIKYU!! TO THE TOP Part 2",
+        "mal_id": "40776",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "19815": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "No Game, No Life",
+        "mal_id": "19815",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "104276": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Hero Academia Season 4",
+        "mal_id": "38408",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21856": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Hero Academia Season 2",
+        "mal_id": "33486",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "100166": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Hero Academia Season 3",
+        "mal_id": "36456",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "117193": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Hero Academia Season 5",
+        "mal_id": "41587",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "139630": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Hero Academia Season 6",
+        "mal_id": "49918",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "163139": {
+        "progress": 21,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Hero Academia Season 7",
+        "mal_id": "54789",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "182896": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Hero Academia FINAL SEASON",
+        "mal_id": "60098",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20789": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Seven Deadly Sins",
+        "mal_id": "23755",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21385": {
+        "progress": 4,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Seven Deadly Sins: Signs of A Holy War",
+        "mal_id": "31722",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "99539": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Seven Deadly Sins: Revival of the Commandments",
+        "mal_id": "34577",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "108928": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Seven Deadly Sins: Imperial Wrath of the Gods",
+        "mal_id": "39701",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "116752": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Seven Deadly Sins: Dragon's Judgement",
+        "mal_id": "41491",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "5114": {
+        "progress": 64,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "mal_id": "5114",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "101759": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Promised Neverland",
+        "mal_id": "37779",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "99423": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "DARLING in the FRANXX",
+        "mal_id": "35849",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "108725": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Promised Neverland Season 2",
+        "mal_id": "39617",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20613": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Akame ga Kill!",
+        "mal_id": "22199",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20447": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Noragami",
+        "mal_id": "20507",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21128": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Noragami Aragoto",
+        "mal_id": "30503",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "166613": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Hell\u2019s Paradise Season 2",
+        "mal_id": "55825",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "128893": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Hell\u2019s Paradise",
+        "mal_id": "46569",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "162669": {
+        "progress": 22,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "To Your Eternity Season 3",
+        "mal_id": "54703",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "166910": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Fable",
+        "mal_id": "55911",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "167152": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Sentenced to Be a Hero",
+        "mal_id": "56009",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "101347": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dororo",
+        "mal_id": "37520",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "129201": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Summer Time Rendering",
+        "mal_id": "47194",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "33": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Berserk",
+        "mal_id": "33",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "170695": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "I Parry Everything",
+        "mal_id": "57058",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "263": {
+        "progress": 75,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Hajime no Ippo: The Fighting!",
+        "mal_id": "263",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "113286": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Monster Girl Doctor",
+        "mal_id": "40708",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "139092": {
+        "progress": 21,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Welcome to Demon School! Iruma-kun Season 3",
+        "mal_id": "49784",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "116338": {
+        "progress": 21,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Welcome to Demon School! Iruma-kun Season 2",
+        "mal_id": "41402",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "107693": {
+        "progress": 23,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Welcome to Demon School! Iruma-kun",
+        "mal_id": "39196",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "181444": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Fragrant Flower Blooms With Dignity",
+        "mal_id": "59845",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "145815": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+        "mal_id": "51128",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "153332": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Aristocrat\u2019s Otherworldly Adventure: Serving Gods Who Go Too Far",
+        "mal_id": "52608",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20678": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Testament of Sister New Devil",
+        "mal_id": "23233",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "175872": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Brilliant Healer's New Life in the Shadows",
+        "mal_id": "58359",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "146850": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Farming Life in Another World",
+        "mal_id": "51462",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "188487": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Banished Court Magician Aims to Become the Strongest",
+        "mal_id": "61276",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21776": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Miss Kobayashi's Dragon Maid",
+        "mal_id": "33206",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "107717": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Miss Kobayashi's Dragon Maid S",
+        "mal_id": "39247",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "170130": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
+        "mal_id": "56923",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "130298": {
+        "progress": 20,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Eminence in Shadow",
+        "mal_id": "48316",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "161964": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Eminence in Shadow Season 2",
+        "mal_id": "54595",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "153845": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too",
+        "mal_id": "52830",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "154391": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Am I Actually the Strongest?",
+        "mal_id": "52969",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21202": {
+        "progress": 10,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "KONOSUBA -God's blessing on this wonderful world!",
+        "mal_id": "30831",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21699": {
+        "progress": 10,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "KONOSUBA -God's blessing on this wonderful world! 2",
+        "mal_id": "32937",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "136804": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "KONOSUBA -God's blessing on this wonderful world! 3",
+        "mal_id": "49458",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "187924": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "NOT_YET_RELEASED",
+        "title": "Kono Subarashii Sekai ni Shukufuku wo! 4",
+        "mal_id": "61203",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "99263": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Rising of the Shield Hero",
+        "mal_id": "35790",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "111321": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Rising of the Shield Hero Season 2",
+        "mal_id": "40356",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "111322": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Rising of the Shield Hero Season 3",
+        "mal_id": "40357",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "173780": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Rising of the Shield Hero Season 4",
+        "mal_id": "57907",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "108465": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "mal_id": "39535",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "166873": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+        "mal_id": "55888",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "98659": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Classroom of the Elite",
+        "mal_id": "35507",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "145545": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Classroom of the Elite Season 2",
+        "mal_id": "51096",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "146066": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Classroom of the Elite Season 3",
+        "mal_id": "51180",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20832": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Overlord",
+        "mal_id": "29803",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "98437": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Overlord II",
+        "mal_id": "35073",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "101474": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Overlord III",
+        "mal_id": "37675",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "133844": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Overlord IV",
+        "mal_id": "48895",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "112124": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
+        "mal_id": "40454",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20920": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "mal_id": "28121",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "101167": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+        "mal_id": "37347",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "129196": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV",
+        "mal_id": "47164",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "155211": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2",
+        "mal_id": "53111",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "98034": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Disastrous Life of Saiki K. Season 2",
+        "mal_id": "34612",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "114535": {
+        "progress": 20,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "To Your Eternity",
+        "mal_id": "41025",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "138565": {
+        "progress": 20,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "To Your Eternity Season 2",
+        "mal_id": "49709",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "185262": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+        "mal_id": "60460",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "118375": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Hidden Dungeon Only I Can Enter",
+        "mal_id": "41899",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "163292": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+        "mal_id": "54913",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "136707": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Parallel World Pharmacy",
+        "mal_id": "49438",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "126213": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Banished from the Hero\u2019s Party, I Decided to Live a Quiet Life in the Countryside",
+        "mal_id": "44037",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "156131": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Banished from the Hero\u2019s Party, I Decided to Live a Quiet Life in the Countryside Season 2",
+        "mal_id": "53488",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "135102": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "By the Grace of the Gods 2",
+        "mal_id": "49109",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "115740": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "By the Grace of the Gods",
+        "mal_id": "41312",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "117612": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "How a Realist Hero Rebuilt the Kingdom",
+        "mal_id": "41710",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "139648": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "How a Realist Hero Rebuilt the Kingdom Part 2",
+        "mal_id": "49930",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "129190": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+        "mal_id": "47159",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "144553": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Reincarnation of the Strongest Exorcist in Another World",
+        "mal_id": "50932",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "150695": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Beast Tamer",
+        "mal_id": "52046",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "158028": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Instant Death Ability is Overpowered",
+        "mal_id": "53730",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "148116": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Iceblade Sorcerer Shall Rule the World",
+        "mal_id": "51711",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "129191": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Strongest Sage with the Weakest Crest",
+        "mal_id": "47161",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "137908": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Wrong Way to Use Healing Magic",
+        "mal_id": "49613",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "163077": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Quality Assurance in Another World",
+        "mal_id": "54835",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "156067": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Campfire Cooking in Another World with my Absurd Skill",
+        "mal_id": "53446",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "170577": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Campfire Cooking in Another World with my Absurd Skill Season 2",
+        "mal_id": "57025",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "144092": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Handyman Saitou in Another World",
+        "mal_id": "50854",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "148465": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Unique Skill Makes Me OP even at Level 1",
+        "mal_id": "51764",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "130586": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
+        "mal_id": "48415",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "134252": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+        "mal_id": "48997",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "173584": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Strongest Magician in the Demon Lord's Army was a Human",
+        "mal_id": "57876",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "171031": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "A Journey Through Another World: Raising Kids While Adventuring",
+        "mal_id": "57380",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "146210": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Vermeil in Gold",
+        "mal_id": "51213",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "140754": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Summoned to Another World for a Second Time",
+        "mal_id": "50220",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "179955": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "From Old Country Bumpkin to Master Swordsman",
+        "mal_id": "59452",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "15809": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Devil is a Part-Timer!",
+        "mal_id": "15809",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "130592": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Devil is a Part-Timer! Season 2",
+        "mal_id": "48413",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "155168": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Devil is a Part-Timer! Season 2 Part 2",
+        "mal_id": "53200",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "169417": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Re:Monster",
+        "mal_id": "56690",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "132474": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Skeleton Knight in Another World",
+        "mal_id": "48760",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "178869": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Clevatess",
+        "mal_id": "59205",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "199221": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dr. STONE SCIENCE FUTURE Cour 3",
+        "mal_id": "62568",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "101165": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "GOBLIN SLAYER",
+        "mal_id": "37349",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "129188": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "GOBLIN SLAYER II",
+        "mal_id": "47160",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "146493": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Ragna Crimson",
+        "mal_id": "51297",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "186052": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Water Magician",
+        "mal_id": "60732",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "184492": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Welcome to Demon School! Iruma-kun Season 4",
+        "mal_id": "60310",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "180745": {
+        "progress": 16,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Classroom of the Elite 4th Season: Second Year, First Semester",
+        "mal_id": "59708",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "182205": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "That Time I Got Reincarnated as a Slime Season 4",
+        "mal_id": "59970",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "141182": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Seirei Gensouki: Spirit Chronicles Season 2",
+        "mal_id": "50306",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "126546": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Seirei Gensouki: Spirit Chronicles",
+        "mal_id": "44203",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "155963": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Hokkaido Gals Are Super Adorable!",
+        "mal_id": "53421",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "155907": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Buddy Daddies",
+        "mal_id": "53411",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "3588": {
+        "progress": 51,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Soul Eater",
+        "mal_id": "3588",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "197824": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Farming Life in Another World 2",
+        "mal_id": "62146",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "153518": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Delicious in Dungeon",
+        "mal_id": "52701",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "198113": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "KILL BLUE",
+        "mal_id": "62391",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "100668": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Arifureta: From Commonplace to World's Strongest",
+        "mal_id": "36882",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "112323": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Arifureta: From Commonplace to World's Strongest Season 2",
+        "mal_id": "40507",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "154473": {
+        "progress": 16,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Arifureta: From Commonplace to World's Strongest Season 3",
+        "mal_id": "52995",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "129192": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!",
+        "mal_id": "47163",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "97938": {
+        "progress": 293,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Boruto: Naruto Next Generations",
+        "mal_id": "34566",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "143598": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Sword of the Demon Hunter: Kijin Gentosho",
+        "mal_id": "49778",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "145260": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Black Summoner",
+        "mal_id": "51064",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "192261": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "An Adventurer\u2019s Daily Grind at Age 29",
+        "mal_id": "61637",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "157198": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dead Mount Death Play",
+        "mal_id": "53613",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "182483": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Warrior Princess and the Barbaric King",
+        "mal_id": "60028",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "162803": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dead Mount Death Play Part 2",
+        "mal_id": "54743",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "114124": {
+        "progress": 11,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Moriarty the Patriot",
+        "mal_id": "40911",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "175019": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Let This Grieving Soul Retire",
+        "mal_id": "58172",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "124858": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Moriarty the Patriot Part 2",
+        "mal_id": "43325",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "173694": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells",
+        "mal_id": "57892",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "14513": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Magi: The Labyrinth of Magic",
+        "mal_id": "14513",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "128715": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Sacrificial Princess and the King of Beasts",
+        "mal_id": "46422",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "178789": {
+        "progress": 14,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+        "mal_id": "59193",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "179302": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "SANDA",
+        "mal_id": "59267",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "11757": {
+        "progress": 25,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Sword Art Online",
+        "mal_id": "11757",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "140457": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "I'm Quitting Heroing",
+        "mal_id": "50175",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "185542": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Skeleton Knight in Another World Season 2",
+        "mal_id": "60522",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "116267": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "TONIKAWA: Over The Moon For You",
+        "mal_id": "41389",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "141208": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "TONIKAWA: Over The Moon For You Season 2",
+        "mal_id": "50307",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "195600": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Daemons of the Shadow Realm",
+        "mal_id": "62001",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "198946": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Clevatess Season 2",
+        "mal_id": "62513",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "194829": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "From Old Country Bumpkin to Master Swordsman II",
+        "mal_id": "61897",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "187538": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "BLACK TORCH",
+        "mal_id": "61169",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "128546": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Vivy -Fluorite Eye's Song-",
+        "mal_id": "46095",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "14741": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Love, Chunibyo & Other Delusions",
+        "mal_id": "14741",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "18671": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Love, Chunibyo & Other Delusions - Heart Throb -",
+        "mal_id": "18671",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "184322": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+        "mal_id": "60303",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "174576": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Wistoria: Wand and Sword",
+        "mal_id": "58059",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "182300": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Wistoria: Wand and Sword Season 2",
+        "mal_id": "59983",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "159831": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Zom 100: Bucket List of the Dead",
+        "mal_id": "54112",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "180292": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+        "mal_id": "59561",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "112649": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Suppose a Kid from the Last Dungeon Boonies moved to a starter town?",
+        "mal_id": "40594",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "184356": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Tomb Raider King",
+        "mal_id": "63316",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "199547": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "MARRIAGETOXIN",
+        "mal_id": "62601",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "196187": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Smoking Behind the Supermarket with You",
+        "mal_id": "62076",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "112301": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Misfit of Demon King Academy: History\u2019s Strongest Demon King Reincarnates and Goes to School with His Descendants",
+        "mal_id": "40496",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "130588": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Misfit of Demon King Academy \u2161: History's Strongest Demon King Reincarnates and Goes to School with His Descendants",
+        "mal_id": "48417",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "130590": {
+        "progress": 12,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Misfit of Demon King Academy II (Cour 2)",
+        "mal_id": "48418",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "178025": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Gachiakuta",
+        "mal_id": "59062",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "142876": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Dr. STONE Special Episode \u2013 RYUSUI",
+        "mal_id": "50612",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "146984": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+        "mal_id": "51535",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "162314": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+        "mal_id": null,
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21579": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Boruto: Naruto the Movie - The Day Naruto Became Hokage",
+        "mal_id": "32365",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "182469": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "ONE PIECE FAN LETTER",
+        "mal_id": "60022",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "204356": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "My Hero Academia More",
+        "mal_id": "63130",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "214031": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Mob Psycho 100 10th Anniversary Special Movie",
+        "mal_id": "64597",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "141212": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "TONIKAWA: Over The Moon For You ~Uniform~",
+        "mal_id": "51533",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "100049": {
+        "progress": 2,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Re:ZERO -Starting Life in Another World- OVAs",
+        "mal_id": "36286",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "111790": {
+        "progress": 2,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "HAIKYU!! LAND VS. AIR",
+        "mal_id": "40262",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "98580": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Miss Kobayashi's Dragon Maid: Valentines and Hot Springs! (Please Don't Get Your Hopes Up)",
+        "mal_id": "35363",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "127371": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "TONIKAWA: Over The Moon For You ~SNS~",
+        "mal_id": "44931",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "16934": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Love, Chunibyo & Other Delusions: Glimmering...Explosive Festival (Slapstick Noel)",
+        "mal_id": "16934",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20889": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Love, Chunibyo & Other Delusions - Heart Throb -: The Rikka Wars/ Apocalypse of the Wicked Lord Shingan Reborn",
+        "mal_id": "27601",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "268": {
+        "progress": 6,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "GOLDEN BOY",
+        "mal_id": "268",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "97880": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Code Geass: Lelouch of the Re;surrection",
+        "mal_id": "34437",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "131680": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Black Clover: Sword of the Wizard King",
+        "mal_id": "48585",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "131573": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "JUJUTSU KAISEN 0",
+        "mal_id": "48561",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21519": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Your Name.",
+        "mal_id": "32281",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20954": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "A Silent Voice",
+        "mal_id": "28851",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "112151": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "mal_id": "40456",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "178788": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "mal_id": "59192",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "99750": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "I Want to Eat Your Pancreas",
+        "mal_id": "36098",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "106286": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Weathering With You",
+        "mal_id": "38826",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "16782": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Garden of Words",
+        "mal_id": "16782",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "47": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Akira",
+        "mal_id": "47",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "142770": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Suzume",
+        "mal_id": "50594",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "114963": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "A Whisker Away",
+        "mal_id": "41168",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "2890": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Ponyo",
+        "mal_id": "2890",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "113596": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Josee, the Tiger and the Fish",
+        "mal_id": "40787",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "171627": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Chainsaw Man \u2013 The Movie: Reze Arc",
+        "mal_id": "57555",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "16870": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Last: Naruto the Movie",
+        "mal_id": "16870",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "153658": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "HAIKYU!! The Dumpster Battle",
+        "mal_id": "52742",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21875": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "No Game, No Life Zero",
+        "mal_id": "33674",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "1689": {
+        "progress": 3,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "5 Centimeters per Second",
+        "mal_id": "1689",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "578": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Grave of the Fireflies",
+        "mal_id": "578",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "181839": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved",
+        "mal_id": "59897",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "10408": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Into the Forest of Fireflies' Light",
+        "mal_id": "10408",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "102976": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson",
+        "mal_id": "38040",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "133845": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "OVERLORD: The Sacred Kingdom",
+        "mal_id": "48896",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "182206": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+        "mal_id": "59971",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "199": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Spirited Away",
+        "mal_id": "199",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21220": {
+        "progress": 1,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Boruto: Naruto the Movie",
+        "mal_id": "28755",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "194742": {
+        "progress": 0,
+        "status": "PAUSED",
+        "air_status": "FINISHED",
+        "title": "The Demon King's Daughter is Too Kind!!",
+        "mal_id": "61884",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "137667": {
+        "progress": 1,
+        "status": "PAUSED",
+        "air_status": "FINISHED",
+        "title": "Lord of Mysteries",
+        "mal_id": "49818",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "457": {
+        "progress": 1,
+        "status": "PAUSED",
+        "air_status": "FINISHED",
+        "title": "MUSHI-SHI",
+        "mal_id": "457",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21804": {
+        "progress": 120,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Disastrous Life of Saiki K.",
+        "mal_id": "33255",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "189046": {
+        "progress": 19,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "Re:ZERO -Starting Life in Another World- Season 4",
+        "mal_id": "61316",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "21": {
+        "progress": 1177,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "ONE PIECE",
+        "mal_id": "21",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "185874": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "FINISHED",
+        "title": "BLEACH: Thousand-Year Blood War - The Calamity",
+        "mal_id": "60636",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "209983": {
+        "progress": 13,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+        "mal_id": "63817",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "195604": {
+        "progress": 4,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "Black Clover Season 2",
+        "mal_id": "61967",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "180136": {
+        "progress": 18,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "The Exiled Heavy Knight Knows How to Game the System",
+        "mal_id": "59741",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "178083": {
+        "progress": 7,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "Tokyo Revengers: War of the Three Titans Arc",
+        "mal_id": "59088",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "212888": {
+        "progress": 7,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "Overgeared",
+        "mal_id": "64340",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "207329": {
+        "progress": 6,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+        "mal_id": "63431",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "152677": {
+        "progress": 4,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "The Detective Is Already Dead Season 2",
+        "mal_id": "52480",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "8086": {
+        "progress": 24,
+        "status": "COMPLETED",
+        "air_status": "FINISHED",
+        "title": "The Legend of the Legendary Heroes",
+        "mal_id": "8086",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "112443": {
+        "progress": 0,
+        "status": "DROPPED",
+        "air_status": "FINISHED",
+        "title": "Bottom-Tier Character Tomozaki",
+        "mal_id": "40530",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "213497": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "NOT_YET_RELEASED",
+        "title": "Sudachi no Maoujou",
+        "mal_id": "64467",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "213752": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "NOT_YET_RELEASED",
+        "title": "MARRIAGETOXIN 2nd Season",
+        "mal_id": "64524",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "217013": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "NOT_YET_RELEASED",
+        "title": "Yomi no Tsugai 2nd Season",
+        "mal_id": "65024",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "159042": {
+        "progress": 4,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "Reincarnated as a Sword Season 2",
+        "mal_id": "53913",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "217331": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "NOT_YET_RELEASED",
+        "title": "Tensei Shitara Slime Datta Ken 4th Season Part 3",
+        "mal_id": "63129",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "180523": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "FINISHED",
+        "title": "A Wild Last Boss Appeared!",
+        "mal_id": "59644",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "209219": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "RELEASING",
+        "title": "So What's Wrong with Getting Reborn as a Goblin?",
+        "mal_id": "63712",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "14719": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "FINISHED",
+        "title": "JoJo's Bizarre Adventure (TV)",
+        "mal_id": "14719",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "177704": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "NOT_YET_RELEASED",
+        "title": "MASHLE: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
+        "mal_id": "58934",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "213702": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "NOT_YET_RELEASED",
+        "title": "Witch Hat Atelier Season 2",
+        "mal_id": "64516",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "195200": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "NOT_YET_RELEASED",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle Part 2",
+        "mal_id": "62546",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "202250": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "RELEASING",
+        "title": "Magic Repo Man: Dumped by My Party, I\u2019ll Cash In With a Cute Support Fairy to Become the Strongest!",
+        "mal_id": "62922",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "213106": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "NOT_YET_RELEASED",
+        "title": "Saikyou Mahoushi no Inton Keikaku",
+        "mal_id": "64379",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "205896": {
+        "progress": 3,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "Full Clearing Another World under a Goddess with Zero Believers",
+        "mal_id": "63292",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "195571": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "RELEASING",
+        "title": "The Vermilion Mask",
+        "mal_id": "61999",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "203880": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "FINISHED",
+        "title": "Dara-san of the Reiwa Era",
+        "mal_id": "63082",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "204650": {
+        "progress": 4,
+        "status": "CURRENT",
+        "air_status": "RELEASING",
+        "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+        "mal_id": "63181",
+        "synced_v8": true,
+        "synced_v10": true
+    }
+}

@@ -1,0 +1,12 @@
+name: AniList IP Test
+
+on: workflow_dispatch
+
+jobs:
+  test_connection:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping AniList API directly (No Python)
+        run: |
+          curl -s -v -X POST -H "Content-Type: application/json" -d "{\"query\": \"query { SiteStatistics { users (sort: count_desc) { nodes { count } } } }\"}" https://graphql.anilist.co
+          

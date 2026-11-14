@@ -1,0 +1,62 @@
+name: Sync AniList to SIMKL
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Unlock Simkl Auth
+        env:
+          ENC_KEY: ${{ secrets.SIMKL_CLIENT_ID }}
+          INITIAL_AUTH: ${{ secrets.SIMKL_AUTH_JSON }}
+        run: |
+          if [ -f simkl_auth.enc ]; then
+            openssl enc -d -aes-256-cbc -pbkdf2 -pass env:ENC_KEY -in simkl_auth.enc -out simkl_auth.json
+          else
+            echo "$INITIAL_AUTH" > simkl_auth.json
+          fi
+
+      - name: Run Sync Script and Lock Auth
+        env:
+          ANILIST_USERNAME: ${{ secrets.ANILIST_USERNAME }}
+          SIMKL_CLIENT_ID: ${{ secrets.SIMKL_CLIENT_ID }}
+          ENC_KEY: ${{ secrets.SIMKL_CLIENT_ID }}
+        run: |
+          BEFORE_HASH=$(sha256sum simkl_auth.json 2>/dev/null || echo "")
+          python sync.py
+          AFTER_HASH=$(sha256sum simkl_auth.json 2>/dev/null || echo "")
+          if [ "$BEFORE_HASH" != "$AFTER_HASH" ] || [ ! -f simkl_auth.enc ]; then
+            openssl enc -aes-256-cbc -pbkdf2 -salt -pass env:ENC_KEY -in simkl_auth.json -out simkl_auth.enc
+          fi
+          rm -f simkl_auth.json *.tmp
+
+      - name: Commit Updated State and Wipe Old Commit History
+        run: |
+          rm -f simkl_auth.json *.tmp
+          git add -A
+          if ! git diff --staged --quiet; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git checkout --orphan temp_branch
+            git rm -rf --cached .
+            rm -f simkl_auth.json *.tmp
+            git add -A
+            git commit -m "update state and encrypted auth"
+            git push -f origin temp_branch:main
+          fi

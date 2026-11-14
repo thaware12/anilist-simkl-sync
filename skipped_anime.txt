@@ -1,0 +1,4 @@
+[Not Found on Simkl] {"title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2", "ids": {"anilist": "162314"}, "rating": null, "seasons": [{"number": 1, "episodes": [{"number": 1}]}]}
+[Not Found on Simkl] {"title": "Mob Psycho 100 10th Anniversary Special Movie", "ids": {"anilist": "214031", "mal": "64597"}, "rating": null, "seasons": [{"number": 1, "episodes": [{"number": 1}]}]}
+[Not Found on Simkl] {"title": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2", "ids": {"anilist": "162314"}, "to": "completed", "type": "show"}
+[Not Found on Simkl] {"title": "Mob Psycho 100 10th Anniversary Special Movie", "ids": {"anilist": "214031", "mal": "64597"}, "to": "completed", "type": "show"}
