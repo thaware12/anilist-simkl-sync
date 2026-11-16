@@ -2,7 +2,7 @@
                SIMKL RULES & STATUS DIFFERENCES REPORT                
 ======================================================================
 Total AniList Anime Checked: 378
-1. Status Overridden by Simkl Rules : 3
+1. Status Overridden by Simkl Rules : 2
 2. Episode Count Differences        : 3
 3. Merged Specials / Missing IDs    : 9
 ======================================================================
@@ -18,10 +18,6 @@ Total AniList Anime Checked: 378
   - AniList State : Completed (1 ep)
   - Simkl Now     : Watching (1 ep)
   - Simkl Rule    : Simkl lists this entry as still airing or groups it with an upcoming sequel/part (e.g., multi-part movie), so Simkl holds it in 'Watching' until all parts finish airing.
-• JoJo's Bizarre Adventure (TV) (AniList ID: 14719)
-  - AniList State : Watching (26 ep)
-  - Simkl Now     : Completed (26 ep)
-  - Simkl Rule    : Simkl watchlist rules overrode status (AniList Airing Status: FINISHED).
 
 ----------------------------------------------------------------------
 2. EPISODE COUNT DIFFERENCES (Split-Cour Merges & Plan-to-Watch Rules)
