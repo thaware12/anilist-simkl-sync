@@ -3382,5 +3382,23 @@
         "mal_id": "63181",
         "synced_v8": true,
         "synced_v10": true
+    },
+    "185993": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "FINISHED",
+        "title": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+        "mal_id": "60692",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "191205": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "FINISHED",
+        "title": "Easygoing Territory Defense by the Optimistic Lord",
+        "mal_id": "61549",
+        "synced_v8": true,
+        "synced_v10": true
     }
 }

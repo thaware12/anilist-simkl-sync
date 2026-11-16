@@ -1,7 +1,7 @@
 ======================================================================
                SIMKL RULES & STATUS DIFFERENCES REPORT                
 ======================================================================
-Total AniList Anime Checked: 376
+Total AniList Anime Checked: 378
 1. Status Overridden by Simkl Rules : 2
 2. Episode Count Differences        : 3
 3. Merged Specials / Missing IDs    : 9
