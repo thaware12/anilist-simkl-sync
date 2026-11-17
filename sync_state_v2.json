@@ -3295,7 +3295,7 @@
     },
     "14719": {
         "progress": 26,
-        "status": "CURRENT",
+        "status": "COMPLETED",
         "air_status": "FINISHED",
         "title": "JoJo's Bizarre Adventure (TV)",
         "mal_id": "14719",
@@ -3398,6 +3398,15 @@
         "air_status": "FINISHED",
         "title": "Easygoing Territory Defense by the Optimistic Lord",
         "mal_id": "61549",
+        "synced_v8": true,
+        "synced_v10": true
+    },
+    "20474": {
+        "progress": 0,
+        "status": "PLANNING",
+        "air_status": "FINISHED",
+        "title": "JoJo's Bizarre Adventure: Stardust Crusaders",
+        "mal_id": "20899",
         "synced_v8": true,
         "synced_v10": true
     }
